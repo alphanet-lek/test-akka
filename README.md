@@ -1,2 +1,2 @@
 # test-akka
-For trying to learn kka
+For trying to learn Akka
